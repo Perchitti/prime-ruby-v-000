@@ -4,3 +4,4 @@ if num.prime?
   true
 else
 end
+end

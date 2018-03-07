@@ -1,7 +1,7 @@
 # Add  code here!
 def Prime_number(num)
-if num.prime?(num)
-  true
-else
+num = 0
+when num.prime?
+  num = num % num
 end
 end
